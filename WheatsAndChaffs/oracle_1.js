@@ -101,12 +101,5 @@ function hireCheck(companies,candidates,hires){
   }
   return true;
 }
-
-// let comp = generateInput(4);
-// let cand = generateInput(4);
-// let hire1 = wheat1(comp,cand);
-// console.log(comp);
-// console.log(cand);
-// console.log(hire1);
 oracle(wheat1);
 oracle(chaff1);
